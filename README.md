@@ -64,32 +64,11 @@
   <!-- PyCharm 卡片 -->
   <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); min-width: 150px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
     <a href="#" style="text-decoration: none; color: inherit;">
-      <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="80" height="80" alt="PyCharm">
+      <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="50" height="50" alt="PyCharm">
       <p style="margin: 12px 0 0; font-weight: bold; color: #333; font-size: 1.1em;">PyCharm</p>
     </a>
   </div>
 </div>
-
-<style>
-  div[style*="linear-gradient"]:hover {
-    transform: scale(1.05);
-    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
-    background: linear-gradient(135deg, #e0e5ec 0%, #b8c2cc 100%);
-  }
-  @media (max-width: 600px) {
-    div[style*="justify-content: center"] {
-      justify-content: flex-start;
-    }
-    div[style*="min-width: 150px"] {
-      min-width: 120px;
-      padding: 15px;
-    }
-    img[width="80"] {
-      width: 60px;
-      height: 60px;
-    }
-  }
-</style>
 
 🏆 Achievements
 <!-- 小红书风格的成就卡片 --><div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;"> <div style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 200px;"> <h4 style="margin-top: 0; color: #ff4757;">LeetCode Stats</h4> <img src="https://stats.justsong.cn/api/leetcode?username=ark2321&cn=true" alt="LeetCode Stats" /> </div> <div style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 200px;"> <h4 style="margin-top: 0; color: #ff4757;">GitHub Streak</h4> <img src="https://streak-stats.demolab.com/?user=ark2321&theme=tokyonight" alt="GitHub Streak" /> </div> </div>
