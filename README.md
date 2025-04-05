@@ -84,7 +84,7 @@
     box-shadow: 0 8px 20px rgba(0,0,0,0.15);
     background: linear-gradient(135deg, #e0e5ec 0%, #b8c2cc 100%);
   }
-  @media (max-width: 768px) {
+  @media (max-width: 400px) {
     div[style*="justify-content: center"] {
       justify-content: flex-start;
     }
