@@ -21,13 +21,13 @@
   <tr>
     <td align="center" width="150">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="150">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
@@ -36,39 +36,52 @@
 
 ### 🛠️ Development Tools
 
-<div style="display: flex; justify-content: center; gap: 25px; margin: 30px 0; flex-wrap: nowrap; overflow-x: auto; padding: 15px 0;">
-  <!-- VSCode 卡片 -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); min-width: 150px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
-    <a href="#" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80" height="80" alt="VSCode">
-      <p style="margin: 12px 0 0; font-weight: bold; color: #333; font-size: 1.1em;">VSCode</p>
-    </a>
-  </div>
-  
-  <!-- Docker 卡片 -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); min-width: 150px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
-    <a href="#" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80" height="80" alt="Docker">
-      <p style="margin: 12px 0 0; font-weight: bold; color: #333; font-size: 1.1em;">Docker</p>
-    </a>
-  </div>
-  
-  <!-- Git 卡片 -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); min-width: 150px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
-    <a href="#" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80" height="80" alt="Git">
-      <p style="margin: 12px 0 0; font-weight: bold; color: #333; font-size: 1.1em;">Git</p>
-    </a>
-  </div>
-  
-  <!-- PyCharm 卡片 -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); min-width: 150px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
-    <a href="#" style="text-decoration: none; color: inherit;">
-      <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="50" height="50" alt="PyCharm">
-      <p style="margin: 12px 0 0; font-weight: bold; color: #333; font-size: 1.1em;">PyCharm</p>
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode" />
+      </a>
+      <br>VSCode
+    </td>
+    <td align="center" width="150">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="150">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="150">
+      <a href="#">
+        <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="50" height="50" alt="PyCharm" />
+      </a>
+      <br>PyCharm
+    </td>
+  </tr>
+</table>
+
+<style>
+  td {
+    transition: all 0.3s ease;
+    padding: 10px;
+  }
+  td:hover {
+    transform: scale(1.05);
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    border-radius: 8px;
+  }
+  table {
+    margin: 20px 0;
+    border-collapse: separate;
+    border-spacing: 10px;
+  }
+</style>
 
 🏆 Achievements
 <!-- 小红书风格的成就卡片 --><div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;"> <div style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 200px;"> <h4 style="margin-top: 0; color: #ff4757;">LeetCode Stats</h4> <img src="https://stats.justsong.cn/api/leetcode?username=ark2321&cn=true" alt="LeetCode Stats" /> </div> <div style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 200px;"> <h4 style="margin-top: 0; color: #ff4757;">GitHub Streak</h4> <img src="https://streak-stats.demolab.com/?user=ark2321&theme=tokyonight" alt="GitHub Streak" /> </div> </div>
