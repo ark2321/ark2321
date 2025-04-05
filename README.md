@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="800" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" />
 </div>
 
 
@@ -86,8 +86,19 @@
 🏆 Achievements
 <!-- 小红书风格的成就卡片 --><div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;"> <div style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 200px;"> <h4 style="margin-top: 0; color: #ff4757;">LeetCode Stats</h4> <img src="https://stats.justsong.cn/api/leetcode?username=ark2321&cn=true" alt="LeetCode Stats" /> </div> <div style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 200px;"> <h4 style="margin-top: 0; color: #ff4757;">GitHub Streak</h4> <img src="https://streak-stats.demolab.com/?user=ark2321&theme=tokyonight" alt="GitHub Streak" /> </div> </div>
 
-📈 GitHub Stats
-<!-- 小红书风格的统计卡片 --><div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;"> <div style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 300px;"> <img src="https://github-readme-stats.vercel.app/api?username=ark2321&theme=tokyonight&show_icons=true" alt="GitHub Stats" /> </div> <div style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 300px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark2321&layout=compact&theme=tokyonight" alt="Top Languages" /> </div> </div>
+### 📈 GitHub Stats
+
+<table style="width: 100%; border-collapse: separate; border-spacing: 10px; margin: 20px 0;">
+  <tr>
+    <td style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); min-width: 300px; transition: all 0.3s ease;">
+      <img src="https://github-readme-stats.vercel.app/api?username=ark2321&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="width: 100%;" />
+    </td>
+    <td style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); min-width: 300px; transition: all 0.3s ease;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark2321&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
+
 
 
 
