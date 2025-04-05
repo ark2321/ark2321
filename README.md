@@ -19,15 +19,15 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" alt="Python" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center" width="150">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
@@ -36,57 +36,57 @@
 
 ### 🛠️ Development Tools
 
-<div style="display: flex; justify-content: center; gap: 20px; margin: 25px 0; flex-wrap: nowrap; overflow-x: auto; padding: 10px 0;">
+<div style="display: flex; justify-content: center; gap: 25px; margin: 30px 0; flex-wrap: nowrap; overflow-x: auto; padding: 15px 0;">
   <!-- VSCode 卡片 -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); min-width: 100px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
+  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); min-width: 150px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
     <a href="#" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode">
-      <p style="margin: 8px 0 0; font-weight: bold; color: #333;">VSCode</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80" height="80" alt="VSCode">
+      <p style="margin: 12px 0 0; font-weight: bold; color: #333; font-size: 1.1em;">VSCode</p>
     </a>
   </div>
   
   <!-- Docker 卡片 -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); min-width: 100px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
+  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); min-width: 150px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
     <a href="#" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker">
-      <p style="margin: 8px 0 0; font-weight: bold; color: #333;">Docker</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80" height="80" alt="Docker">
+      <p style="margin: 12px 0 0; font-weight: bold; color: #333; font-size: 1.1em;">Docker</p>
     </a>
   </div>
   
   <!-- Git 卡片 -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); min-width: 100px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
+  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); min-width: 150px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
     <a href="#" style="text-decoration: none; color: inherit;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git">
-      <p style="margin: 8px 0 0; font-weight: bold; color: #333;">Git</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80" height="80" alt="Git">
+      <p style="margin: 12px 0 0; font-weight: bold; color: #333; font-size: 1.1em;">Git</p>
     </a>
   </div>
   
   <!-- PyCharm 卡片 -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); min-width: 100px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
+  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); min-width: 150px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
     <a href="#" style="text-decoration: none; color: inherit;">
-      <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40" height="40" alt="PyCharm">
-      <p style="margin: 8px 0 0; font-weight: bold; color: #333;">PyCharm</p>
-    </a>
-  </div>
-
-  <!-- Cursor 卡片 -->
-  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); min-width: 100px; text-align: center; transition: all 0.3s ease; flex-shrink: 0;">
-    <a href="#" style="text-decoration: none; color: inherit;">
-      <img src="https://cdn.cursor.so/cursor-logo.svg" width="40" height="40" alt="Cursor">
-      <p style="margin: 8px 0 0; font-weight: bold; color: #333;">Cursor</p>
+      <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="80" height="80" alt="PyCharm">
+      <p style="margin: 12px 0 0; font-weight: bold; color: #333; font-size: 1.1em;">PyCharm</p>
     </a>
   </div>
 </div>
 
 <style>
   div[style*="linear-gradient"]:hover {
-    transform: scale(1.08);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    transform: scale(1.05);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
     background: linear-gradient(135deg, #e0e5ec 0%, #b8c2cc 100%);
   }
-  @media (max-width: 400px) {
+  @media (max-width: 600px) {
     div[style*="justify-content: center"] {
       justify-content: flex-start;
+    }
+    div[style*="min-width: 150px"] {
+      min-width: 120px;
+      padding: 15px;
+    }
+    img[width="80"] {
+      width: 60px;
+      height: 60px;
     }
   }
 </style>
