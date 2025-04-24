@@ -68,6 +68,9 @@
 🏆 Achievements
 <!-- 小红书风格的成就卡片 --><div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;"> <div style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 200px;"> <h4 style="margin-top: 0; color: #ff4757;">LeetCode Stats</h4> <img src="https://stats.justsong.cn/api/leetcode?username=ark2321&cn=true" alt="LeetCode Stats" /> </div> <div style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 200px;"> <h4 style="margin-top: 0; color: #ff4757;">GitHub Streak</h4> <img src="https://streak-stats.demolab.com/?user=ark2321&theme=tokyonight" alt="GitHub Streak" /> </div> </div>
 
+### 声网用量监控示意图
+<a href="https://agora.io"><img src="https://img.shields.io/badge/dynamic/json?color=099dfd&labelColor=002550&style=flat-square&label=Agora-RTC&query=%24.usage&url=https%3A%2F%2Fconsole-open.agoralab.co%2Fopen-api%2Fv1%2Fbadge%2Fproject%2F299bb7780775ea25e007c50844703110%3A2c49159d1c5917dd66&link=https%3A%2F%2Fagora.io" alt="badge" /></a>
+
 ### 📈 GitHub Stats
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 10px; margin: 20px 0;">
