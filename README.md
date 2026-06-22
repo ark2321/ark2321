@@ -1,132 +1,105 @@
-## Hi,I'm Xpal.👋欢迎回家👋
+<div align="center">
+  <h1>Hello, I'm <a href="https://github.com/LJK86">Li Jinke</a> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+  </h1>
+  
+  <p>AI Application Engineer · LLM · RAG · Agent · Microsoft MVP Nominee</p>
+  
+  <p>
+    <a href="https://github.com/LJK86">
+      <img height="28" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="mailto:19511785627@163.com">
+      <img height="28" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/LJK86">
+      <img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </p>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!;Thank+you+very+much+for+your+visit.)](https://git.io/typing-svg)
+---
 
-<!-- 小红书风格的卡片 -->
-<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%); padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px 0;">
-  <p style="color: white; font-weight: bold;">✨ AI Developer | Alchemist | Knowledge Manager ✨</p>
-  <p style="color: white;">Every encounter is a bond of fate! Let's create something amazing together.</p>
+### 👨‍💻 About Me
+
+- 🎓 **Undergraduate** at Chengdu Neusoft University, Intelligent Science & Technology
+- 🔭 Currently building **FinSight** — a local-first financial RAG analysis platform
+- 🏆 **NVIDIA Sky Hackathon Year-end Finals · Runner-up** (2025.11)
+- 🥈 **Microsoft AI Developer Challenge · Double Awards** (2025.04)
+- 🌱 **Microsoft MVP Nominee** (AI / LLM direction)
+- 💻 Personal Dev Environment: **NVIDIA DGX Spark** (128GB GB10)
+- 📫 How to reach me: **19511785627@163.com**
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LJK86&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LJK86&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=LJK86&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p align="left">
+  <img height="45" src="https://skillicons.dev/icons?i=python,cpp,cuda,typescript,kotlin,bash&perline=6">
+</p>
+
+**LLM / AI**
+<p align="left">
+  <img height="45" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=6">
+  &nbsp;
+  <img height="45" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain">
+  <img height="45" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai">
+  <img height="45" src="https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge">
+</p>
+
+**Backend & Infra**
+<p align="left">
+  <img height="45" src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis,nginx,linux,git&perline=8">
+</p>
+
+**Frontend**
+<p align="left">
+  <img height="45" src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs&perline=4">
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔍 **[FinSight](https://github.com/LJK86/finsight)** | Local-first financial RAG analysis platform · multi-agent fact-checking | FastAPI · Milvus · PostgreSQL · MCP |
+| 🧴 **[SkinTech](https://github.com/LJK86/skintech)** | Multimodal skin health assistant · MCP-based product recommendation | DeepSeek-R1 · Phi-4-mini · NVIDIA NIM |
+| 📱 **[ToDoAgent](https://github.com/LJK86/todoagent)** | Auto extracts to-dos from notifications via LLM pipeline | Android · OpenAI · Azure MySQL |
+
+---
+
+### 🏆 Awards & Certifications
+
+- 🥈 **NVIDIA Sky Hackathon · Year-end Finals · Runner-up** | 2025.11
+- 🏆 **Microsoft AI Developer Challenge · Double Awards** | 2025.04  
+  ▸ *Agent Practice Pioneer + Most Popular Developer*
+- 🥈 **2nd Xing-Zhi Cup · National Finals · 2nd Prize** | 2025.10
+- 🏅 **NVIDIA DGX Spark Hackathon · Excellence Top5** | 2026.04
+- 🏅 **Kupasi 2026 CICC Agent Hackathon · National Finalist** | 2026.06
+- 🌱 **Microsoft MVP Nominee** · AI / LLM direction
+- 🌱 **Google GDE Nomination · In Progress**
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/LJK86/count.svg" alt="Visitor Count"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" />
+  <i>⚡ Building AI products that ship, not slides ⚡</i>
 </div>
-
-
-## 📊 Skills Dashboard
-
-### 🖥️ Programming Languages
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="150">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Development Tools
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode" />
-      </a>
-      <br>VSCode
-    </td>
-    <td align="center" width="150">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="150">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="150">
-      <a href="#">
-        <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="50" height="50" alt="PyCharm" />
-      </a>
-      <br>PyCharm
-    </td>
-  </tr>
-</table>
-
-🏆 Achievements
-<!-- 小红书风格的成就卡片 --><div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;"> <div style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 200px;"> <h4 style="margin-top: 0; color: #ff4757;">LeetCode Stats</h4> <img src="https://stats.justsong.cn/api/leetcode?username=ark2321&cn=true" alt="LeetCode Stats" /> </div> <div style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 200px;"> <h4 style="margin-top: 0; color: #ff4757;">GitHub Streak</h4> <img src="https://streak-stats.demolab.com/?user=ark2321&theme=tokyonight" alt="GitHub Streak" /> </div> </div>
-
-### 声网用量监控示意图
-<a href="https://agora.io"><img src="https://img.shields.io/badge/dynamic/json?color=099dfd&labelColor=002550&style=flat-square&label=Agora-RTC&query=%24.usage&url=https%3A%2F%2Fconsole-open.agoralab.co%2Fopen-api%2Fv1%2Fbadge%2Fproject%2F299bb7780775ea25e007c50844703110%3A2c49159d1c5917dd66&link=https%3A%2F%2Fagora.io" alt="badge" /></a>
-
-### 📈 GitHub Stats
-
-<table style="width: 100%; border-collapse: separate; border-spacing: 10px; margin: 20px 0;">
-  <tr>
-    <td style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); min-width: 300px; transition: all 0.3s ease;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ark2321&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="width: 100%;" />
-    </td>
-    <td style="background: #fff; padding: 15px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); min-width: 300px; transition: all 0.3s ease;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark2321&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 100%;" />
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🎨 Social Media
-<!-- 小红书风格的社交链接 --><div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;"> <a href="#" style="text-decoration: none;"> <div style="background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d); color: white; padding: 10px 15px; border-radius: 20px; display: flex; align-items: center;"> <span>Instagram</span> </div> </a> <a href="#" style="text-decoration: none;"> <div style="background: #1da1f2; color: white; padding: 10px 15px; border-radius: 20px; display: flex; align-items: center;"> <span>Twitter</span> </div> </a> <a href="#" style="text-decoration: none;"> <div style="background: #ff2442; color: white; padding: 10px 15px; border-radius: 20px; display: flex; align-items: center;"> <span>小红书</span> </div> </a> </div>
-
-
-
-
-
-
-<div style="background: white; padding: 20px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 20px 0;">
-  <h3 style="color: #ff2442; margin-top: 0;">📌 获取步骤</h3>
-  <ol style="padding-left: 20px;">
-    <li>点击上方表格中的徽章按钮</li>
-    <li>在仓库中找到<code>resources</code>文件夹</li>
-    <li>按需下载<mark style="background: #fff8e6; padding: 2px 5px; border-radius: 3px;">.zip</mark>压缩包</li>
-  </ol>
-  <div style="background: #fff8e6; padding: 10px; border-radius: 8px; margin-top: 15px;">
-    💡 <strong>小贴士：</strong>关注仓库获取更新通知！
-  </div>
-</div>
-
-
-
-
-
-
-
-
-
-
